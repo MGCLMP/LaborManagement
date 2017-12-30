@@ -1,0 +1,22 @@
+
+最初期
+
+CEO(私)（役割PM・各種雑務・意思決定・広報・フロントエンド・デザイン
+　　　　その他サポート）
+
+フルスタックエンジニア（フロントエンド・バックエンド）
+	CTO	　　　（要求スキルHTML＆CSS、es2015laterjavascript,
+			jQuery,Ruby on rails）
+		　　　（歓迎スキル react-native, GCP or AWS使用可能, 
+			tone.js習得済, canvas習得済, sass,db詳しい）
+
+デザイナー（UI・UX制作、モックアップ）
+	   (要求スキル Adobe Photoshop, Adobe illustrator, 
+	    Adobe xd, sketch)
+　　　　　（歓迎スキル、色彩心理学、4色型色覚保有者）
+
+マーケター（戦略分析、アナリスティング、決算会計処理、PM）（余裕があれば）
+
+チームに一人は女性が欲しい特にデザイナー辺り
+（女性が居る事で仕事効率が上昇する）
+（可能ならハロー効果も用いたい）
